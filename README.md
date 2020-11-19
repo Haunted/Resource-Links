@@ -23,6 +23,12 @@ OSINT
 > https://snusbase.com/
 
 > https://www.ipvoid.com/
+
+> http://whoisamped.com/
+
+> https://viewdns.info/
+
+> https://dnschecker.org/website-server-software.php
 ```
 HASH n crap
 ------------
