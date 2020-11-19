@@ -1,6 +1,6 @@
 # Links n shit
 
-##OSINT
+OSINT
 > https://tools.epieos.com/phone.php
 > https://www.smat-app.com/
 > https://ipapi.co/
@@ -11,13 +11,13 @@
 > https://www.nicehash.com/my/login
 > https://snusbase.com/
 
-##HASH n crap
+HASH n crap
 > https://hashkiller.io/listmanager
 >  
 
-##SSL 
+SSL 
 > https://certbot.eff.org/
 
-##BITCOIN
+BITCOIN
 > https://mempool.space/
 
