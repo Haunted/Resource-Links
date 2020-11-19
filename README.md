@@ -1,4 +1,5 @@
 # Links n shit
+###For educational purposes
 
 OSINT
 ------------
