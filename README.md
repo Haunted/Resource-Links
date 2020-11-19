@@ -1,5 +1,5 @@
 # Links n shit
-### For educational use
+### FOR EDUCATIONAL USE
 
 OSINT
 ------------
