@@ -1,6 +1,7 @@
 # Links n shit
 
 OSINT
+------------
 > https://tools.epieos.com/phone.php
 
 > https://www.smat-app.com/
@@ -20,12 +21,23 @@ OSINT
 > https://snusbase.com/
 
 HASH n crap
+------------
 > https://hashkiller.io/listmanager
 >  
 
 SSL 
+------------
 > https://certbot.eff.org/
 
 BITCOIN
+------------
+```
 > https://mempool.space/
+```
+METADATA
+------------
+```
+> http://exif.regex.info/exif.cgi
+```
+
 
