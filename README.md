@@ -45,4 +45,4 @@ METADATA
 > http://exif.regex.info/exif.cgi
 ```
 
-<img src="https://nightmare.wtf/x/idk.gif" alt="neofetch" align="centre" height="240px">
+<img src="https://nightmare.wtf/x/idk.gif" alt="neofetch" align="center" height="240px">
