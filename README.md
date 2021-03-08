@@ -51,5 +51,11 @@ METADATA
 ```
 > http://exif.regex.info/exif.cgi
 ```
+PENTESTING
+------------
+```
+> https://book.hacktricks.xyz/
+```
 
-<img src="https://nightmare.wtf/x/idk.gif" alt="neofetch" align="center" height="240px">
+
+<img src="https://nightmare.wtf/x/tumblr_myncx8D5gq1romt22o1_500.gif" alt="neofetch" align="center" height="240px">
