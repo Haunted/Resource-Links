@@ -29,6 +29,8 @@ OSINT
 > https://viewdns.info/
 
 > https://dnschecker.org/website-server-software.php
+
+> https://web-check.xyz/about
 ```
 HASH n crap
 ------------
